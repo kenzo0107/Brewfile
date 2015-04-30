@@ -24,12 +24,12 @@ brew install zsh-completions
 brew install mobile-shell
 
 # Git
-brew install git
-brew install hub
-brew install gitsh
-brew install gist
-brew install tig
-brew install gibo
+#brew install git
+#brew install hub
+#brew install gitsh
+#brew install gist
+#brew install tig
+#brew install gibo
 
 # Utils
 brew install wget
@@ -58,24 +58,13 @@ brew install php53-redis
 brew install redis
 
 # DevOps
-brew install docker
-brew cask install boot2docker
-brew cask install packer
+#brew install docker
+#brew cask install boot2docker
+#brew cask install packer
 
 # Casks
-brew cask install iterm2
-brew cask install google-chrome
-brew cask install google-drive
-brew cask install google-japanese-ime
 brew cask install virtualbox
 brew cask install vagrant
-brew cask install kobito
-brew cask install alfred
-brew cask install evernote
-brew cask install xtrafinder
-brew cask install github
-brew cask install lastpass-universal
-brew cask install totalspaces2
 brew cask install svnx
 brew cask install filezilla
 brew cask install firefox
@@ -83,7 +72,21 @@ brew cask install openoffice
 brew cask install textmate
 brew cask install mamp
 brew cask install sourcetree
-brew cask install slack
+brew cask install miro-video-converter
+brew cask install sequel-pro
+
+#brew cask install iterm2
+#brew cask install google-chrome
+#brew cask install google-drive
+#brew cask install google-japanese-ime
+#brew cask install kobito
+#brew cask install alfred
+#brew cask install evernote
+#brew cask install xtrafinder
+#brew cask install github
+#brew cask install lastpass-universal
+#brew cask install totalspaces2
+#brew cask install slack
 
 #cask install phpstorm
 #cask install rubymine
@@ -95,7 +98,6 @@ brew cask install slack
 #cask install pckeyboardhack
 #cask install keyremap4macbook
 #cask install skitch
-#cask install sequel-pro
 
 # Remove outdated versions.
 brew cleanup
