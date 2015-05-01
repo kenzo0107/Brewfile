@@ -74,12 +74,12 @@ brew cask install mamp
 brew cask install sourcetree
 brew cask install miro-video-converter
 brew cask install sequel-pro
+brew cask install kobito
 
 #brew cask install iterm2
 #brew cask install google-chrome
 #brew cask install google-drive
 #brew cask install google-japanese-ime
-#brew cask install kobito
 #brew cask install alfred
 #brew cask install evernote
 #brew cask install xtrafinder
