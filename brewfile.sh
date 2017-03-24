@@ -62,7 +62,7 @@ brew cask install spectacle
 brew cask install iterm2
 brew cask install skitch
 brew cask install slack
-
+brew cask install clipy
 #brew cask install google-chrome
 #brew cask install google-japanese-ime
 
