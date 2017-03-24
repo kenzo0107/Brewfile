@@ -40,6 +40,7 @@ brew install peco
 brew install md5sha1sum
 brew install nkf
 brew install tmux
+brew install graphviz
 
 # DevOps
 #brew install docker
