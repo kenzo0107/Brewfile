@@ -51,13 +51,13 @@ brew cask install diffmerge
 brew cask install virtualbox
 brew cask install vagrant
 brew cask install vagrant-manager
-brew cask install filezilla
+#brew cask install filezilla
 brew cask install atom
 brew cask install textmate
-brew cask install mamp
+#brew cask install mamp
 brew cask install sourcetree
-brew cask install miro-video-converter
-brew cask install sequel-pro
+#brew cask install miro-video-converter
+#brew cask install sequel-pro
 brew cask install spectacle
 
 brew cask install iterm2
