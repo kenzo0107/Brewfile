@@ -23,17 +23,12 @@ brew install zsh-completions
 # Utils
 brew install rmtrash
 brew install wget
-#brew install jenkins
-#brew install openssl
-#brew install libtool
-#brew install cmake
-#brew install automake
+brew install the_silver_searcher
 
 # Languages
 brew install go
 #brew install rbenv
 #brew install ruby-build
-#brew cask install java
 
 brew install ghq
 brew install peco
@@ -43,17 +38,12 @@ brew install tmux
 brew install graphviz
 
 # DevOps
-#brew install docker
-#brew cask install boot2docker
-#brew cask install packer
-
 brew cask install diffmerge
-brew cask install virtualbox
-brew cask install vagrant
-brew cask install vagrant-manager
+#brew cask install virtualbox
+#brew cask install vagrant
+#brew cask install vagrant-manager
 #brew cask install filezilla
 brew cask install atom
-brew cask install textmate
 #brew cask install mamp
 brew cask install sourcetree
 #brew cask install miro-video-converter
