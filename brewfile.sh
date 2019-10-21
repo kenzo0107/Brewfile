@@ -19,21 +19,16 @@ brew install brew-cask
 # Shell
 brew install zsh
 brew install zsh-completions
+brew install gnu-sed
 
 # Utils
 brew install rmtrash
 brew install wget
-#brew install jenkins
-#brew install openssl
-#brew install libtool
-#brew install cmake
-#brew install automake
 
 # Languages
 brew install go
 #brew install rbenv
 #brew install ruby-build
-#brew cask install java
 
 brew install ghq
 brew install peco
@@ -44,7 +39,6 @@ brew install graphviz
 
 # DevOps
 #brew install docker
-#brew cask install boot2docker
 #brew cask install packer
 
 brew cask install diffmerge
@@ -52,9 +46,11 @@ brew cask install virtualbox
 brew cask install vagrant
 brew cask install vagrant-manager
 brew cask install filezilla
+
+# Editor
 brew cask install atom
-brew cask install textmate
-brew cask install mamp
+brew cask install sublime-text2
+
 brew cask install sourcetree
 brew cask install miro-video-converter
 brew cask install sequel-pro
