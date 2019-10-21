@@ -37,13 +37,7 @@ brew install nkf
 brew install tmux
 brew install graphviz
 
-
 brew cask install diffmerge
-brew cask install virtualbox
-brew cask install vagrant
-brew cask install vagrant-manager
-brew cask install filezilla
-
 # Editor
 brew cask install atom
 brew cask install sublime-text2
