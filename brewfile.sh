@@ -36,8 +36,8 @@ brew install md5sha1sum
 brew install nkf
 brew install tmux
 brew install graphviz
+brew install direnv
 
-brew cask install diffmerge
 # Editor
 brew cask install atom
 brew cask install sublime-text2
