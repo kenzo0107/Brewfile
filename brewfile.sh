@@ -37,10 +37,11 @@ brew install nkf
 brew install tmux
 brew install graphviz
 brew install direnv
+brew install terraform
+brew install tfenv
 
 # Editor
 brew cask install atom
-brew cask install sublime-text2
 
 brew cask install diffmerge
 brew cask install atom
