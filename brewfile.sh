@@ -37,7 +37,6 @@ brew install nkf
 brew install tmux
 brew install graphviz
 brew install direnv
-brew install terraform
 brew install tfenv
 
 # Editor
