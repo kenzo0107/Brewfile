@@ -32,6 +32,7 @@ brew install go
 
 brew install ghq
 brew install peco
+brew install jq
 brew install md5sha1sum
 brew install nkf
 brew install tmux
