@@ -36,6 +36,7 @@ brew install jq
 brew install md5sha1sum
 brew install nkf
 brew install tmux
+brew install reattach-to-user-namespace
 brew install graphviz
 brew install direnv
 brew install tfenv
