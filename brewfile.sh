@@ -39,6 +39,7 @@ brew install tmux
 brew install reattach-to-user-namespace
 brew install graphviz
 brew install direnv
+brew install git-secrets
 
 brew cask install sourcetree
 brew cask install spectacle
