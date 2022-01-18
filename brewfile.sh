@@ -26,9 +26,7 @@ brew install wget
 brew install the_silver_searcher
 
 # Languages
-brew install go
-#brew install rbenv
-#brew install ruby-build
+brew install asdf
 
 brew install ghq
 brew install peco
@@ -39,7 +37,6 @@ brew install tmux
 brew install reattach-to-user-namespace
 brew install graphviz
 brew install direnv
-brew install tfenv
 
 # Editor
 brew cask install atom
