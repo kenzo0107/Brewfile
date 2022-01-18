@@ -1,4 +1,5 @@
-#!/bin/shbrew  Make sure using latest Homebrew
+#!/bin/sh
+# brew  Make sure using latest Homebrew
 brew update
 
 # Update already-installed formula
@@ -11,7 +12,8 @@ brew tap homebrew/versions
 brew tap phinze/homebrew-cask
 # for ricty
 brew tap sanemat/font
-
+# gitignore
+brew tap toshi0607/homebrew-gig
 
 # 各種インストール
 brew install brew-cask
@@ -26,9 +28,7 @@ brew install wget
 brew install the_silver_searcher
 
 # Languages
-brew install go
-#brew install rbenv
-#brew install ruby-build
+brew install asdf
 
 brew install ghq
 brew install peco
@@ -39,13 +39,7 @@ brew install tmux
 brew install reattach-to-user-namespace
 brew install graphviz
 brew install direnv
-brew install tfenv
 
-# Editor
-brew cask install atom
-
-brew cask install diffmerge
-brew cask install atom
 brew cask install sourcetree
 brew cask install spectacle
 
@@ -53,6 +47,8 @@ brew cask install iterm2
 brew cask install skitch
 brew cask install slack
 brew cask install clipy
+
+brew install visual-studio-code --cask
 
 #brew cask install miro-video-converter
 #brew cask install sequel-pro
