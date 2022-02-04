@@ -37,7 +37,6 @@ brew install md5sha1sum
 brew install nkf
 brew install tmux
 brew install reattach-to-user-namespace
-brew install graphviz
 brew install direnv
 brew install git-secrets
 
@@ -47,12 +46,8 @@ brew cask install spectacle
 brew cask install iterm2
 brew cask install skitch
 brew cask install slack
-brew cask install clipy
 
 brew install visual-studio-code --cask
-
-#brew cask install miro-video-converter
-#brew cask install sequel-pro
 
 # Remove outdated versions.
 brew cleanup
